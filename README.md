@@ -1,1 +1,1 @@
-This repository contains the jupyter notebooks where I attempt to solve the problems in the book **50 Challenging Problems in Probability**, using Monte Carlo simulations. 
+This repository contains Jupyter notebooks in which I solve problems from the book **50 Challenging Problems in Probability** using Monte Carlo simulations. The solutions are then compared to those derived in the book using analytical methods.
